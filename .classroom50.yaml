@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "2026w1"
+assignment: "lab-0-part-2"
+owner:
+  username: "ubc-guy"
+  id: 54036067
+  accepted_at: "2026-09-12T05:19:13Z"
+source:
+  owner: "UBCV-CPEN211"
+  owner_id: 225987158
+  repo: "master-lab-0-part-2"
+  branch: "main"
